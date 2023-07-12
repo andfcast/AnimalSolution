@@ -3,7 +3,37 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33815.320
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AnimalWebApi", "AnimalWebApi\AnimalWebApi.csproj", "{C10C3177-7BD7-4F1A-842C-C83B3873922C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AnimalEntities", "AnimalEntities\AnimalEntities.csproj", "{AD8E5C44-7B3A-43EF-B42F-0AE0FB3B6193}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnimalBusinessLogic", "AnimalBusinessLogic\AnimalBusinessLogic.csproj", "{DCE4472A-195E-414C-8E54-B3538752EE48}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnimalDataAccessLayer", "AnimalDataAccessLayer\AnimalDataAccessLayer.csproj", "{EEE9B989-E653-40F3-B3D6-17FBF135D5DB}"
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C10C3177-7BD7-4F1A-842C-C83B3873922C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C10C3177-7BD7-4F1A-842C-C83B3873922C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C10C3177-7BD7-4F1A-842C-C83B3873922C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C10C3177-7BD7-4F1A-842C-C83B3873922C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD8E5C44-7B3A-43EF-B42F-0AE0FB3B6193}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD8E5C44-7B3A-43EF-B42F-0AE0FB3B6193}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD8E5C44-7B3A-43EF-B42F-0AE0FB3B6193}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD8E5C44-7B3A-43EF-B42F-0AE0FB3B6193}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCE4472A-195E-414C-8E54-B3538752EE48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCE4472A-195E-414C-8E54-B3538752EE48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCE4472A-195E-414C-8E54-B3538752EE48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCE4472A-195E-414C-8E54-B3538752EE48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EEE9B989-E653-40F3-B3D6-17FBF135D5DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEE9B989-E653-40F3-B3D6-17FBF135D5DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEE9B989-E653-40F3-B3D6-17FBF135D5DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEE9B989-E653-40F3-B3D6-17FBF135D5DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection

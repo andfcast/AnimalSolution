@@ -1,0 +1,12 @@
+D:\Pruebas\AnimalSolution\AnimalSolution\AnimalEntities\bin\Debug\net6.0\AnimalEntities.deps.json
+D:\Pruebas\AnimalSolution\AnimalSolution\AnimalEntities\bin\Debug\net6.0\AnimalEntities.dll
+D:\Pruebas\AnimalSolution\AnimalSolution\AnimalEntities\bin\Debug\net6.0\AnimalEntities.pdb
+D:\Pruebas\AnimalSolution\AnimalSolution\AnimalEntities\obj\Debug\net6.0\AnimalEntities.csproj.AssemblyReference.cache
+D:\Pruebas\AnimalSolution\AnimalSolution\AnimalEntities\obj\Debug\net6.0\AnimalEntities.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pruebas\AnimalSolution\AnimalSolution\AnimalEntities\obj\Debug\net6.0\AnimalEntities.AssemblyInfoInputs.cache
+D:\Pruebas\AnimalSolution\AnimalSolution\AnimalEntities\obj\Debug\net6.0\AnimalEntities.AssemblyInfo.cs
+D:\Pruebas\AnimalSolution\AnimalSolution\AnimalEntities\obj\Debug\net6.0\AnimalEntities.csproj.CoreCompileInputs.cache
+D:\Pruebas\AnimalSolution\AnimalSolution\AnimalEntities\obj\Debug\net6.0\AnimalEntities.dll
+D:\Pruebas\AnimalSolution\AnimalSolution\AnimalEntities\obj\Debug\net6.0\refint\AnimalEntities.dll
+D:\Pruebas\AnimalSolution\AnimalSolution\AnimalEntities\obj\Debug\net6.0\AnimalEntities.pdb
+D:\Pruebas\AnimalSolution\AnimalSolution\AnimalEntities\obj\Debug\net6.0\ref\AnimalEntities.dll

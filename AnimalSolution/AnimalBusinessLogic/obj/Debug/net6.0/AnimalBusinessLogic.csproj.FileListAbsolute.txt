@@ -1,0 +1,17 @@
+D:\Pruebas\AnimalSolution\AnimalSolution\AnimalBusinessLogic\bin\Debug\net6.0\AnimalBusinessLogic.deps.json
+D:\Pruebas\AnimalSolution\AnimalSolution\AnimalBusinessLogic\bin\Debug\net6.0\AnimalBusinessLogic.dll
+D:\Pruebas\AnimalSolution\AnimalSolution\AnimalBusinessLogic\bin\Debug\net6.0\AnimalBusinessLogic.pdb
+D:\Pruebas\AnimalSolution\AnimalSolution\AnimalBusinessLogic\obj\Debug\net6.0\AnimalBusinessLogic.csproj.AssemblyReference.cache
+D:\Pruebas\AnimalSolution\AnimalSolution\AnimalBusinessLogic\obj\Debug\net6.0\AnimalBusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pruebas\AnimalSolution\AnimalSolution\AnimalBusinessLogic\obj\Debug\net6.0\AnimalBusinessLogic.AssemblyInfoInputs.cache
+D:\Pruebas\AnimalSolution\AnimalSolution\AnimalBusinessLogic\obj\Debug\net6.0\AnimalBusinessLogic.AssemblyInfo.cs
+D:\Pruebas\AnimalSolution\AnimalSolution\AnimalBusinessLogic\obj\Debug\net6.0\AnimalBusinessLogic.csproj.CoreCompileInputs.cache
+D:\Pruebas\AnimalSolution\AnimalSolution\AnimalBusinessLogic\obj\Debug\net6.0\AnimalBusinessLogic.dll
+D:\Pruebas\AnimalSolution\AnimalSolution\AnimalBusinessLogic\obj\Debug\net6.0\refint\AnimalBusinessLogic.dll
+D:\Pruebas\AnimalSolution\AnimalSolution\AnimalBusinessLogic\obj\Debug\net6.0\AnimalBusinessLogic.pdb
+D:\Pruebas\AnimalSolution\AnimalSolution\AnimalBusinessLogic\obj\Debug\net6.0\ref\AnimalBusinessLogic.dll
+D:\Pruebas\AnimalSolution\AnimalSolution\AnimalBusinessLogic\bin\Debug\net6.0\AnimalDataAccessLayer.dll
+D:\Pruebas\AnimalSolution\AnimalSolution\AnimalBusinessLogic\bin\Debug\net6.0\AnimalEntities.dll
+D:\Pruebas\AnimalSolution\AnimalSolution\AnimalBusinessLogic\bin\Debug\net6.0\AnimalDataAccessLayer.pdb
+D:\Pruebas\AnimalSolution\AnimalSolution\AnimalBusinessLogic\bin\Debug\net6.0\AnimalEntities.pdb
+D:\Pruebas\AnimalSolution\AnimalSolution\AnimalBusinessLogic\obj\Debug\net6.0\AnimalBusinessLogic.csproj.CopyComplete

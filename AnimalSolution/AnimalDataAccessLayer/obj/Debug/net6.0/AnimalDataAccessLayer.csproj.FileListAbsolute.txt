@@ -1,0 +1,15 @@
+D:\Pruebas\AnimalSolution\AnimalSolution\AnimalDataAccessLayer\bin\Debug\net6.0\AnimalDataAccessLayer.deps.json
+D:\Pruebas\AnimalSolution\AnimalSolution\AnimalDataAccessLayer\bin\Debug\net6.0\AnimalDataAccessLayer.dll
+D:\Pruebas\AnimalSolution\AnimalSolution\AnimalDataAccessLayer\bin\Debug\net6.0\AnimalDataAccessLayer.pdb
+D:\Pruebas\AnimalSolution\AnimalSolution\AnimalDataAccessLayer\obj\Debug\net6.0\AnimalDataAccessLayer.csproj.AssemblyReference.cache
+D:\Pruebas\AnimalSolution\AnimalSolution\AnimalDataAccessLayer\obj\Debug\net6.0\AnimalDataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pruebas\AnimalSolution\AnimalSolution\AnimalDataAccessLayer\obj\Debug\net6.0\AnimalDataAccessLayer.AssemblyInfoInputs.cache
+D:\Pruebas\AnimalSolution\AnimalSolution\AnimalDataAccessLayer\obj\Debug\net6.0\AnimalDataAccessLayer.AssemblyInfo.cs
+D:\Pruebas\AnimalSolution\AnimalSolution\AnimalDataAccessLayer\obj\Debug\net6.0\AnimalDataAccessLayer.csproj.CoreCompileInputs.cache
+D:\Pruebas\AnimalSolution\AnimalSolution\AnimalDataAccessLayer\obj\Debug\net6.0\AnimalDataAccessLayer.dll
+D:\Pruebas\AnimalSolution\AnimalSolution\AnimalDataAccessLayer\obj\Debug\net6.0\refint\AnimalDataAccessLayer.dll
+D:\Pruebas\AnimalSolution\AnimalSolution\AnimalDataAccessLayer\obj\Debug\net6.0\AnimalDataAccessLayer.pdb
+D:\Pruebas\AnimalSolution\AnimalSolution\AnimalDataAccessLayer\obj\Debug\net6.0\ref\AnimalDataAccessLayer.dll
+D:\Pruebas\AnimalSolution\AnimalSolution\AnimalDataAccessLayer\bin\Debug\net6.0\AnimalEntities.dll
+D:\Pruebas\AnimalSolution\AnimalSolution\AnimalDataAccessLayer\bin\Debug\net6.0\AnimalEntities.pdb
+D:\Pruebas\AnimalSolution\AnimalSolution\AnimalDataAccessLayer\obj\Debug\net6.0\AnimalDataAccessLayer.csproj.CopyComplete
